@@ -1,2 +1,2 @@
-# Halite-III
-Halite III
+# Terminal-One-AI-Competition
+Terminal-One-AI-Competition
